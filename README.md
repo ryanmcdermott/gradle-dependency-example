@@ -1,4 +1,4 @@
-# buffalo
+# gradle-dependency-example
 
 ## Installation
 ```
